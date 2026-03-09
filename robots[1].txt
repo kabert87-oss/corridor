@@ -1,0 +1,8 @@
+# The Corridor Africa — robots.txt
+# https://thecorridorafrica.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://thecorridorafrica.com/sitemap.xml
