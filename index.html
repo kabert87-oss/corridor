@@ -138,6 +138,34 @@
 .bs-lens-title { font-family: 'DM Sans', sans-serif; font-size: 12px; font-weight: 700; color: #0f0e0c; margin-bottom: 5px; }
 .bs-lens-desc { font-family: 'DM Sans', sans-serif; font-size: 11px; color: #888; line-height: 1.4; }
 
+/* ── RESPONSIVE ─────────────────────────────────────────── */
+@media (max-width: 900px) {
+  .bs-datebar { padding: 7px 20px; }
+  .bs-main { grid-template-columns: 1fr; }
+  .bs-sidebar { display: none; }
+  .bs-feature { padding: 32px 24px; border-right: none; }
+  .bs-feat-title { font-size: clamp(28px, 5vw, 42px); }
+  .bs-archive { grid-template-columns: 1fr 1fr; }
+  .bs-lenses { grid-template-columns: repeat(3, 1fr); }
+  .bs-lenses-header { padding: 14px 24px; }
+  .bs-archive-header { padding: 14px 20px; }
+  .bs-about { grid-template-columns: 1fr; }
+  .bs-about-left { padding: 32px 24px; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.06); }
+  .bs-about-right { padding: 32px 24px; }
+}
+@media (max-width: 600px) {
+  .bs-datebar { padding: 7px 16px; flex-direction: column; align-items: flex-start; gap: 2px; }
+  .bs-feature { padding: 24px 16px; }
+  .bs-feat-title { font-size: clamp(24px, 6vw, 32px); letter-spacing: -0.5px; }
+  .bs-archive { grid-template-columns: 1fr; }
+  .bs-archive-header { padding: 12px 16px; flex-direction: column; align-items: flex-start; gap: 4px; }
+  .bs-issue { border-right: none; border-bottom: 1px solid #d4cdc0; }
+  .bs-issue:last-child { border-bottom: none; }
+  .bs-lenses { grid-template-columns: 1fr 1fr; }
+  .bs-lenses-header { padding: 12px 16px; }
+  .bs-about-left, .bs-about-right { padding: 24px 16px; }
+  .bs-about-right { grid-template-columns: 1fr 1fr; }
+}
 </style>
 </head>
 <body>
@@ -147,6 +175,7 @@
   <a href="/" class="nav-brand">THE CORRIDOR</a>
   <div class="nav-topbar-right">
     <div class="nav-tagline">Tourism. Development. Politics. Africa.</div>
+    <button class="nav-hamburger" id="navHamburger" aria-label="Open menu"><span></span><span></span><span></span></button>
     <a href="https://corridorafrica.substack.com/subscribe" target="_blank" class="nav-sub-btn">Subscribe Free →</a>
   </div>
 </div>
@@ -179,6 +208,7 @@
     <a href="/diplomacy.html" class="nav-mobile-link">🤝 Diplomacy &amp; Trade</a>
     <div class="nav-mobile-sub">About</div>
     <a href="/about.html" class="nav-mobile-link">About The Corridor</a>
+    <a href="/cookies.html" class="nav-mobile-link">🍪 Manage Cookies</a>
     <a href="https://corridorafrica.substack.com/subscribe" class="nav-mobile-link" target="_blank">Subscribe Free →</a>
   </div>
 </nav>
@@ -343,7 +373,7 @@
       <a href="/about.html">About</a>
       <a href="/terms.html">Terms</a>
       <a href="/privacy.html">Privacy</a>
-      <a href="/accessibility.html">Accessibility</a>
+      <a href="/cookies.html">Cookies</a>
       <a href="/search.html">Search</a>
     </div>
     <div class="bs-footer-copy">© 2026 The Corridor · Nairobi, Kenya · Published every Monday</div>

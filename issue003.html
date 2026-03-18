@@ -249,7 +249,10 @@
   .lens-grid { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 600px) {
-    .article-hero-stat { padding: 16px 12px; }
+    .article-hero-stat { padding: 16px 12px;   .article-hero { padding-left: 16px; padding-right: 16px; }
+  .article-hero-inner { padding: 56px 16px 40px; }
+  div[style*="max-width:680px"] { padding: 0 16px; }
+}
   .data-row { grid-template-columns: 1fr; }
   .lens-grid { grid-template-columns: 1fr; }
   .bar-label { width: 100px; font-size: 12px; }
@@ -263,6 +266,7 @@
     <a href="/" class="nav-brand">THE CORRIDOR</a>
     <div class="nav-topbar-right">
       <div class="nav-tagline">Tourism. Development. Politics. Africa.</div>
+      <button class="nav-hamburger" id="navHamburger" aria-label="Open menu"><span></span><span></span><span></span></button>
       <a href="https://corridorafrica.substack.com/subscribe" target="_blank" class="nav-sub-btn">Subscribe Free →</a>
     </div>
   </div>
@@ -292,6 +296,7 @@
     <a href="/diplomacy.html" class="nav-mobile-link">🤝 Diplomacy &amp; Trade</a>
     <div class="nav-mobile-sub">About</div>
     <a href="/about.html" class="nav-mobile-link">About The Corridor</a>
+    <a href="/cookies.html" class="nav-mobile-link">🍪 Manage Cookies</a>
     <a href="https://corridorafrica.substack.com/subscribe" class="nav-mobile-link" target="_blank">Subscribe Free →</a>
   </div>
 </nav>
@@ -574,7 +579,7 @@
 
 <!-- NEXT ISSUE TEASER -->
 <section style="background:#0D0805;padding:56px 48px;text-align:center;border-top:1px solid rgba(192,57,43,0.3);">
-  <div style="max-width:680px;margin:0 auto;">
+  <div style="max-width:680px;width:100%;margin:0 auto;">
     <div style="font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#C0392B;margin-bottom:16px;">Publishing Next Monday · ✈️ Connectivity &amp; Aviation</div>
     <h2 style="font-family:'Playfair Display',serif;font-size:clamp(24px,4vw,36px);font-weight:900;color:white;margin-bottom:16px;">Issue 004 is live.</h2>
     <p style="font-family:'Source Serif 4',serif;font-size:17px;color:rgba(255,255,255,0.5);line-height:1.75;font-weight:300;font-style:italic;margin-bottom:28px;">Ethiopia broke ground on a $12.5 billion airport for 110 million passengers. JKIA is over capacity at 8.93 million. The Corridor Index is shifting toward Addis Ababa. The Corridor analyses what Nairobi must do before the window closes.</p>
@@ -583,24 +588,37 @@
 </section>
 
 <!-- FOOTER F3C -->
-<footer style="background:#0D0805; display:grid; grid-template-columns:1fr 1fr; border-top:1px solid rgba(192,57,43,0.3);">
-  <div style="padding:48px; border-right:1px solid rgba(255,255,255,0.05);">
-    <div style="font-family:'Playfair Display',serif; font-size:24px; font-weight:900; color:white; letter-spacing:2px; margin-bottom:12px;">THE CORRIDOR</div>
-    <div style="font-family:'Source Serif 4',serif; font-size:14px; color:rgba(255,255,255,0.35); font-style:italic; line-height:1.7; margin-bottom:28px;">Where global politics meets African tourism. Published every Monday from Nairobi, Kenya.</div>
-    <div style="display:flex; gap:16px; flex-wrap:wrap; margin-bottom:32px;">
-      <a href="/about.html" style="font-size:12px; color:rgba(255,255,255,0.25); text-decoration:none;">About</a>
-      <a href="/terms.html" style="font-size:12px; color:rgba(255,255,255,0.25); text-decoration:none;">Terms</a>
-      <a href="/privacy.html" style="font-size:12px; color:rgba(255,255,255,0.25); text-decoration:none;">Privacy</a>
-      <a href="/accessibility.html" style="font-size:12px; color:rgba(255,255,255,0.25); text-decoration:none;">Accessibility</a>
+<footer class="bs-footer">
+  <div>
+    <div class="bs-footer-brand">THE CORRIDOR</div>
+    <div class="bs-footer-tagline">Where global politics meets African tourism. Published every Monday from Nairobi, Kenya.</div>
+    <div class="bs-footer-links">
+      <a href="/about.html">About</a>
+      <a href="/terms.html">Terms</a>
+      <a href="/privacy.html">Privacy</a>
+      <a href="/cookies.html">Cookies</a>
     </div>
-    <div style="font-size:11px; color:rgba(255,255,255,0.12);">© 2026 The Corridor · Nairobi, Kenya · Published every Monday</div>
+    <div class="bs-footer-copy">© 2026 The Corridor · Nairobi, Kenya · Published every Monday</div>
   </div>
-  <div style="padding:48px; background:rgba(192,57,43,0.06); display:flex; flex-direction:column; justify-content:center;">
-    <div style="font-size:10px; font-weight:700; letter-spacing:2px; text-transform:uppercase; color:#C0392B; margin-bottom:12px;">Every Monday · Free</div>
-    <div style="font-family:'Playfair Display',serif; font-size:24px; font-weight:900; color:white; margin-bottom:10px; line-height:1.3;">Never miss an issue of The Corridor</div>
-    <div style="font-family:'Source Serif 4',serif; font-size:14px; color:rgba(255,255,255,0.4); line-height:1.7; margin-bottom:24px;">Sharp geopolitical tourism intelligence for Africa's decision-makers. Straight to your inbox.</div>
-    <a href="https://corridorafrica.substack.com/subscribe" target="_blank" style="display:inline-block; background:#C0392B; color:white; padding:14px 28px; font-size:13px; font-weight:700; text-decoration:none; border-radius:4px; align-self:flex-start;">Subscribe Free →</a>
-    <div style="font-size:11px; color:rgba(255,255,255,0.2); margin-top:10px;">No spam · Unsubscribe anytime</div>
+  <div>
+    <div class="bs-footer-col-label">Issues</div>
+    <div class="bs-footer-col-links">
+      <a href="/issue004.html">Issue 004 · Connectivity</a>
+      <a href="/issue003.html">Issue 003 · Economics</a>
+      <a href="/issue002.html">Issue 002 · Conflict</a>
+      <a href="/policy.html">Issue 001 · Policy</a>
+    </div>
+  </div>
+  <div>
+    <div class="bs-footer-col-label">Lenses</div>
+    <div class="bs-footer-col-links">
+      <a href="/conflict.html">Conflict &amp; Displacement</a>
+      <a href="/economics.html">Economics &amp; Currency</a>
+      <a href="/connectivity.html">Connectivity &amp; Aviation</a>
+      <a href="/policy-governance.html">Policy &amp; Governance</a>
+      <a href="/climate.html">Climate &amp; Environment</a>
+      <a href="/diplomacy.html">Diplomacy &amp; Trade</a>
+    </div>
   </div>
 </footer>
 
