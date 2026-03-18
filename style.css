@@ -7,6 +7,10 @@
 /* Fonts loaded via <link rel="preconnect"> in HTML head for best performance */
 /* font-display: swap is appended to the Google Fonts URL in each HTML file  */
 
+/* ── SKIP TO CONTENT (Accessibility) ─────────────────────── */
+.skip-link { position: absolute; top: -100px; left: 16px; background: #C0392B; color: white; font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 700; padding: 10px 20px; z-index: 9999; text-decoration: none; transition: top 0.2s; }
+.skip-link:focus { top: 16px; }
+
 /* ── RESET & ROOT ─────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -482,3 +486,67 @@ footer { background: var(--dark); padding: 48px; border-top: 1px solid rgba(255,
 .b1-card.red .b1-divider { background: #E74C3C; }
 .b1-label { font-size: 12px; color: #555; line-height: 1.55; margin-bottom: 8px; }
 .b1-source { font-size: 10px; color: #aaa; font-style: italic; }
+
+/* ── PRINT STYLESHEET ────────────────────────────────────── */
+@media print {
+  /* Hide all navigation, interactive and non-content elements */
+  nav, .nav-topbar, .nav-lensbar, .nav-mobile-menu,
+  .bs-footer, .subscribe-block, .lp-more,
+  .article-sidebar, .sidebar-card,
+  .share-bar, .next-issue-teaser,
+  .skip-link, .nav-hamburger,
+  .bs-sub-box, .bs-datebar,
+  button, .btn-accept-all, .btn-essential-only, .btn-save-prefs,
+  .ck-save-bar, .ck-explainer, .ck-browser-section { display: none !important; }
+
+  /* Base */
+  *, *::before, *::after { box-sizing: border-box; }
+  body { font-family: Georgia, 'Times New Roman', serif; font-size: 12pt; line-height: 1.7; color: #000; background: white; margin: 0; padding: 0; }
+
+  /* Article hero prints clean */
+  .article-hero { background: white !important; border-bottom: 2pt solid #000; padding: 24pt 0 16pt; color: #000 !important; }
+  .article-hero * { color: #000 !important; background: transparent !important; }
+  .article-hero-inner { max-width: 100%; padding: 0; }
+
+  /* Article body full width */
+  .article-wrap { display: block; padding: 24pt 0; max-width: 100%; }
+  .article-body { width: 100%; }
+  .article-body p { font-size: 11pt; line-height: 1.75; margin-bottom: 10pt; color: #000; }
+  .article-body h2 { font-size: 14pt; font-weight: bold; margin: 18pt 0 8pt; color: #000; page-break-after: avoid; }
+
+  /* Stats strip readable in print */
+  .b1-stats-inner { grid-template-columns: repeat(4, 1fr); }
+  .b1-card { border-top: 2pt solid #000; background: white; padding: 10pt; }
+  .b1-num { font-size: 24pt; color: #000; }
+
+  /* Lens page */
+  .lp-body { display: block; }
+  .lp-header { border-bottom: 2pt solid #000; }
+  .lp-article { border-left: 2pt solid #000; padding: 12pt; }
+
+  /* Legal pages */
+  .lg-body, .ab-body { padding: 0; }
+
+  /* Links show URL in print */
+  a[href]::after { content: " (" attr(href) ")"; font-size: 9pt; color: #555; }
+  a[href^="/"]:after { content: " (thecorridorafrica.com" attr(href) ")"; }
+  a[href^="#"]::after { content: ""; }
+
+  /* Page breaks */
+  .lg-section, .ck-policy-section, .ab-section { page-break-inside: avoid; }
+
+  /* Print masthead */
+  body::before {
+    content: "THE CORRIDOR — thecorridorafrica.com — Published every Monday from Nairobi, Kenya";
+    display: block;
+    font-family: Georgia, serif;
+    font-size: 9pt;
+    color: #555;
+    border-bottom: 0.5pt solid #000;
+    padding-bottom: 6pt;
+    margin-bottom: 16pt;
+  }
+
+  /* Page numbers */
+  @page { margin: 2cm; }
+}
