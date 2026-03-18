@@ -52,25 +52,28 @@
 <body>
 
 <nav>
-  <div class="nav-top">
+  <div class="nav-topbar">
     <a href="/" class="nav-brand">THE CORRIDOR</a>
+    <div class="nav-topbar-right">
+      <div class="nav-tagline">Tourism. Development. Politics. Africa.</div>
+      <a href="https://corridorafrica.substack.com/subscribe" target="_blank" class="nav-sub-btn">Subscribe Free →</a>
+    </div>
+  </div>
+  <div class="nav-lensbar">
+    <a href="/conflict.html" class="nav-lens">⚔️ Conflict</a>
+    <a href="/economics.html" class="nav-lens">💱 Economics</a>
+    <a href="/connectivity.html" class="nav-lens">✈️ Connectivity</a>
+    <a href="/policy-governance.html" class="nav-lens">🏛️ Policy</a>
+    <a href="/climate.html" class="nav-lens active">🌿 Climate</a>
+    <a href="/diplomacy.html" class="nav-lens">🤝 Diplomacy</a>
+    <div class="nav-spacer"></div>
+    <a href="/about.html" class="nav-about">About</a>
     <div class="nav-search">
       <form class="nav-search-form" action="/search.html" method="GET">
         <input class="nav-search-input" type="text" name="q" placeholder="Search issues..." autocomplete="off">
         <button class="nav-search-btn" type="submit">🔍</button>
       </form>
     </div>
-    <button class="nav-hamburger" id="navHamburger" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
-  </div>
-  <div class="nav-lenses">
-    <a href="/conflict.html" class="nav-lens">⚔️ Conflict & Displacement</a>
-    <a href="/economics.html" class="nav-lens">💱 Economics & Currency</a>
-    <a href="/connectivity.html" class="nav-lens">✈️ Connectivity & Aviation</a>
-    <a href="/policy-governance.html" class="nav-lens">🏛️ Policy & Governance</a>
-    <a href="/climate.html" class="nav-lens active">🌿 Climate & Environment</a>
-    <a href="/diplomacy.html" class="nav-lens">🤝 Diplomacy & Trade</a>
   </div>
   <div class="nav-mobile-menu" id="navMobileMenu">
     <div class="nav-mobile-sub">Explore by Lens</div>
@@ -142,24 +145,38 @@
 
 </div>
 
-<footer>
-  <div class="footer-inner">
-    <div>
-      <div class="footer-brand">THE CORRIDOR</div>
-      <div class="footer-tagline">Where global politics meets African tourism.</div>
-      <div class="footer-legal">
-        <a href="/about.html" class="footer-legal-link">About</a>
-        <span class="footer-legal-sep">·</span>
-        <a href="/terms.html" class="footer-legal-link">Terms of Use</a>
-        <span class="footer-legal-sep">·</span>
-        <a href="/privacy.html" class="footer-legal-link">Privacy Policy</a>
-        <span class="footer-legal-sep">·</span>
-        <a href="/cookies.html" class="footer-legal-link">Manage Cookies</a>
-        <span class="footer-legal-sep">·</span>
-        <a href="/accessibility.html" class="footer-legal-link">Accessibility & CC</a>
-      </div>
+<!-- FOOTER -->
+<footer class="bs-footer">
+  <div>
+    <div class="bs-footer-brand">THE CORRIDOR</div>
+    <div class="bs-footer-tagline">Where global politics meets African tourism. Published every Monday from Nairobi, Kenya.</div>
+    <div class="bs-footer-links">
+      <a href="/about.html">About</a>
+      <a href="/terms.html">Terms</a>
+      <a href="/privacy.html">Privacy</a>
+      <a href="/accessibility.html">Accessibility</a>
     </div>
-    <div class="footer-copy">© 2026 The Corridor<br>Nairobi, Kenya</div>
+    <div class="bs-footer-copy">© 2026 The Corridor · Nairobi, Kenya · Published every Monday</div>
+  </div>
+  <div>
+    <div class="bs-footer-col-label">Issues</div>
+    <div class="bs-footer-col-links">
+      <a href="/issue004.html">Issue 004 · Connectivity</a>
+      <a href="/issue003.html">Issue 003 · Economics</a>
+      <a href="/issue002.html">Issue 002 · Conflict</a>
+      <a href="/policy.html">Issue 001 · Policy</a>
+    </div>
+  </div>
+  <div>
+    <div class="bs-footer-col-label">Lenses</div>
+    <div class="bs-footer-col-links">
+      <a href="/conflict.html">Conflict & Displacement</a>
+      <a href="/economics.html">Economics & Currency</a>
+      <a href="/connectivity.html">Connectivity & Aviation</a>
+      <a href="/policy-governance.html">Policy & Governance</a>
+      <a href="/climate.html">Climate & Environment</a>
+      <a href="/diplomacy.html">Diplomacy & Trade</a>
+    </div>
   </div>
 </footer>
 

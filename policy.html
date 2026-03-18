@@ -118,7 +118,7 @@
 <link rel="stylesheet" href="/style.css">
 
 <style>
-.article-page-hero { min-height: 70vh; background: var(--dark); position: relative; overflow: hidden; padding-top: 110px; }
+.article-page-hero { min-height: 70vh; background: var(--dark); position: relative; overflow: hidden; padding-top: 56px; }
 .article-hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 70% 50% at 60% 40%, rgba(192,57,43,0.07) 0%, transparent 70%); }
 .article-hero-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px); background-size: 80px 80px; }
 
@@ -219,25 +219,28 @@
 <body>
 
 <nav>
-  <div class="nav-top">
+  <div class="nav-topbar">
     <a href="/" class="nav-brand">THE CORRIDOR</a>
+    <div class="nav-topbar-right">
+      <div class="nav-tagline">Tourism. Development. Politics. Africa.</div>
+      <a href="https://corridorafrica.substack.com/subscribe" target="_blank" class="nav-sub-btn">Subscribe Free →</a>
+    </div>
+  </div>
+  <div class="nav-lensbar">
+    <a href="/conflict.html" class="nav-lens">⚔️ Conflict</a>
+    <a href="/economics.html" class="nav-lens">💱 Economics</a>
+    <a href="/connectivity.html" class="nav-lens">✈️ Connectivity</a>
+    <a href="/policy-governance.html" class="nav-lens active">🏛️ Policy</a>
+    <a href="/climate.html" class="nav-lens">🌿 Climate</a>
+    <a href="/diplomacy.html" class="nav-lens">🤝 Diplomacy</a>
+    <div class="nav-spacer"></div>
+    <a href="/about.html" class="nav-about">About</a>
     <div class="nav-search">
       <form class="nav-search-form" action="/search.html" method="GET">
         <input class="nav-search-input" type="text" name="q" placeholder="Search issues..." autocomplete="off">
         <button class="nav-search-btn" type="submit">🔍</button>
       </form>
     </div>
-    <button class="nav-hamburger" id="navHamburger" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
-  </div>
-  <div class="nav-lenses">
-    <a href="/conflict.html" class="nav-lens">⚔️ Conflict &amp; Displacement</a>
-    <a href="/economics.html" class="nav-lens">💱 Economics &amp; Currency</a>
-    <a href="/connectivity.html" class="nav-lens">✈️ Connectivity &amp; Aviation</a>
-    <a href="/policy-governance.html" class="nav-lens active">🏛️ Policy &amp; Governance</a>
-    <a href="/climate.html" class="nav-lens">🌿 Climate &amp; Environment</a>
-    <a href="/diplomacy.html" class="nav-lens">🤝 Diplomacy &amp; Trade</a>
   </div>
   <div class="nav-mobile-menu" id="navMobileMenu">
     <div class="nav-mobile-sub">Explore by Lens</div>
