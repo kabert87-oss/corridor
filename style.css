@@ -437,6 +437,8 @@ footer { background: var(--dark); padding: 48px; border-top: 1px solid rgba(255,
   .nav-topbar { padding: 10px 20px; }
   .nav-tagline { display: none; }
   .nav-lensbar { padding: 0 20px; }
+  .article-page-hero { padding-top: 32px; }
+  .article-hero-meta { padding-top: 20px; }
   /* Lens page header */
   .lp-breadcrumb { padding: 8px 20px; }
   .lp-header { padding: 28px 20px 24px; flex-direction: column; align-items: flex-start; }
@@ -464,9 +466,11 @@ footer { background: var(--dark); padding: 48px; border-top: 1px solid rgba(255,
   .nav-lensbar { display: none; }
   .lenses-grid { grid-template-columns: 1fr; }
   .b1-stats-inner { grid-template-columns: 1fr 1fr; }
-  /* Lens page sidebar full width on small phones */
   .lp-sidebar { grid-template-columns: 1fr; }
   .lp-article-tags { display: none; }
+  .article-page-hero { padding-top: 16px; min-height: auto; }
+  .article-hero-inner { padding: 0 16px 32px; }
+  .article-hero-meta { padding-top: 12px; }
 }
 
 /* ── GLOBAL: Hide duplicate subscribe block on article pages ── */
