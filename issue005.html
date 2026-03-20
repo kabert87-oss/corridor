@@ -98,7 +98,7 @@
 <link rel="alternate" type="application/rss+xml" title="The Corridor — Weekly African Tourism Intelligence" href="https://thecorridorafrica.com/rss.xml">
 
 <style>
-.article-page-hero { min-height: 70vh; background: var(--dark); position: relative; overflow: hidden; padding-top: 56px; }
+.article-page-hero { background: var(--dark); position: relative; overflow: hidden; padding-top: 56px; padding-bottom: 48px; }
 .article-hero-bg { position: absolute; inset: 0; background: radial-gradient(ellipse 70% 50% at 60% 40%, rgba(39,174,96,0.06) 0%, transparent 70%); }
 .article-hero-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px); background-size: 80px 80px; }
 .hero-issue { font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--red); background: rgba(192,57,43,0.12); border: 1px solid rgba(192,57,43,0.25); padding: 5px 12px; border-radius: 20px; }
@@ -180,12 +180,12 @@
 @media (max-width: 600px) {
   .article-wrap { padding: 24px 16px; }
   .data-row { grid-template-columns: 1fr; }
-  .article-page-hero { padding-top: 20px; min-height: auto; }
+  .article-page-hero { padding-top: 20px; min-height: 0 !important; }
   .article-hero-meta { padding-top: 16px; }
   div[style*="max-width:680px"] { padding: 0 16px; }
 }
 @media (max-width: 900px) {
-  .article-page-hero { padding-top: 32px; }
+  .article-page-hero { padding-top: 32px; min-height: 0 !important; }
 }
 </style>
 </head>

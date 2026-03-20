@@ -437,7 +437,7 @@ footer { background: var(--dark); padding: 48px; border-top: 1px solid rgba(255,
   .nav-topbar { padding: 10px 20px; }
   .nav-tagline { display: none; }
   .nav-lensbar { padding: 0 20px; }
-  .article-page-hero { padding-top: 32px; }
+  .article-page-hero { padding-top: 32px; min-height: 0 !important; }
   .article-hero-meta { padding-top: 20px; }
   .article-wrap { padding: 40px 24px !important; }
   /* Lens page header */
@@ -469,7 +469,7 @@ footer { background: var(--dark); padding: 48px; border-top: 1px solid rgba(255,
   .b1-stats-inner { grid-template-columns: 1fr 1fr; }
   .lp-sidebar { grid-template-columns: 1fr; }
   .lp-article-tags { display: none; }
-  .article-page-hero { padding-top: 16px; min-height: auto; }
+  .article-page-hero { padding-top: 16px; min-height: 0 !important; }
   .article-hero-inner { padding: 0 16px 32px; }
   .article-hero-meta { padding-top: 12px; }
   .article-wrap { padding: 24px 16px !important; }
