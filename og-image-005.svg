@@ -1,0 +1,112 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+<defs><clipPath id="clip"><rect width="1200" height="630"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="630" fill="#0D0805"/>
+<rect x="0" y="340" width="1200" height="60" fill="#1a1208" opacity="0.9"/>
+<rect x="0" y="355" width="1200" height="30" fill="#C0392B" opacity="0.08"/>
+<rect x="0" y="390" width="1200" height="240" fill="#0f0c08"/>
+<rect x="0" y="355" width="1200" height="40" fill="#0a0805"/>
+<rect x="60" y="300" width="4" height="60" fill="#0a0805"/>
+<ellipse cx="62" cy="298" rx="28" ry="12" fill="#0a0805"/>
+<rect x="140" y="310" width="3" height="50" fill="#0a0805"/>
+<ellipse cx="141" cy="308" rx="22" ry="10" fill="#0a0805"/>
+<rect x="220" y="295" width="4" height="65" fill="#0a0805"/>
+<ellipse cx="222" cy="293" rx="32" ry="13" fill="#0a0805"/>
+<rect x="320" y="308" width="3" height="52" fill="#0a0805"/>
+<ellipse cx="321" cy="306" rx="20" ry="9" fill="#0a0805"/>
+<rect x="400" y="298" width="4" height="62" fill="#0a0805"/>
+<ellipse cx="402" cy="296" rx="30" ry="12" fill="#0a0805"/>
+<rect x="880" y="302" width="4" height="58" fill="#0a0805"/>
+<ellipse cx="882" cy="300" rx="26" ry="11" fill="#0a0805"/>
+<rect x="960" y="295" width="3" height="65" fill="#0a0805"/>
+<ellipse cx="961" cy="293" rx="31" ry="13" fill="#0a0805"/>
+<rect x="1060" y="308" width="4" height="52" fill="#0a0805"/>
+<ellipse cx="1062" cy="306" rx="22" ry="10" fill="#0a0805"/>
+<rect x="1140" y="300" width="3" height="60" fill="#0a0805"/>
+<ellipse cx="1141" cy="298" rx="28" ry="11" fill="#0a0805"/>
+<ellipse cx="480" cy="372" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="510" cy="370" rx="5" ry="3" fill="#1a1410"/>
+<ellipse cx="535" cy="373" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="558" cy="371" rx="5" ry="3" fill="#1a1410"/>
+<ellipse cx="580" cy="374" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="605" cy="372" rx="5" ry="3" fill="#1a1410"/>
+<ellipse cx="628" cy="370" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="652" cy="373" rx="5" ry="3" fill="#1a1410"/>
+<ellipse cx="675" cy="371" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="698" cy="374" rx="5" ry="3" fill="#1a1410"/>
+<ellipse cx="720" cy="372" rx="6" ry="4" fill="#1a1410"/>
+<ellipse cx="440" cy="388" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="468" cy="385" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="495" cy="390" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="522" cy="387" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="548" cy="391" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="575" cy="388" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="600" cy="392" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="626" cy="389" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="652" cy="393" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="678" cy="390" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="705" cy="394" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="730" cy="391" rx="7" ry="5" fill="#201810"/>
+<ellipse cx="758" cy="388" rx="8" ry="5" fill="#201810"/>
+<ellipse cx="420" cy="408" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="448" cy="405" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="475" cy="410" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="503" cy="407" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="530" cy="412" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="558" cy="409" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="584" cy="413" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="612" cy="410" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="638" cy="414" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="664" cy="411" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="690" cy="415" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="718" cy="412" rx="9" ry="6" fill="#2a2018"/>
+<ellipse cx="744" cy="408" rx="10" ry="6" fill="#2a2018"/>
+<ellipse cx="770" cy="411" rx="9" ry="6" fill="#2a2018"/>
+<circle cx="100" cy="60" r="1.5" fill="#ffffff" opacity="0.6"/>
+<circle cx="250" cy="40" r="1" fill="#ffffff" opacity="0.5"/>
+<circle cx="380" cy="80" r="1.5" fill="#ffffff" opacity="0.4"/>
+<circle cx="520" cy="30" r="1" fill="#ffffff" opacity="0.6"/>
+<circle cx="680" cy="55" r="1.5" fill="#ffffff" opacity="0.5"/>
+<circle cx="820" cy="25" r="1" fill="#ffffff" opacity="0.4"/>
+<circle cx="950" cy="70" r="1.5" fill="#ffffff" opacity="0.6"/>
+<circle cx="1080" cy="45" r="1" fill="#ffffff" opacity="0.5"/>
+<circle cx="1150" cy="85" r="1.5" fill="#ffffff" opacity="0.4"/>
+<circle cx="180" cy="120" r="1" fill="#ffffff" opacity="0.3"/>
+<circle cx="750" cy="100" r="1" fill="#ffffff" opacity="0.3"/>
+<rect x="0" y="0" width="6" height="630" fill="#C0392B"/>
+<rect x="6" y="0" width="1194" height="52" fill="#0f0e0c"/>
+<rect x="6" y="50" width="1194" height="2" fill="#C0392B"/>
+<text x="40" y="34" font-family="Georgia, serif" font-size="22" font-weight="900" fill="white" letter-spacing="5">THE CORRIDOR</text>
+<text x="1160" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#C0392B" text-anchor="end" letter-spacing="2">ISSUE 005</text>
+<text x="1160" y="38" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.4)" text-anchor="end" letter-spacing="1">30 MARCH 2026</text>
+<rect x="40" y="68" width="200" height="24" rx="12" fill="rgba(192,57,43,0.2)" stroke="#C0392B" stroke-width="1"/>
+<text x="140" y="84" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#C0392B" text-anchor="middle" letter-spacing="1.5">CLIMATE AND ENVIRONMENT</text>
+<text x="40" y="150" font-family="Georgia, serif" font-size="52" font-weight="900" fill="white">When the Migration</text>
+<text x="40" y="215" font-family="Georgia, serif" font-size="52" font-weight="900" fill="white">Loses Its</text>
+<text x="40" y="280" font-family="Georgia, serif" font-size="52" font-weight="900" fill="#C0392B" font-style="italic">Calendar</text>
+<text x="40" y="318" font-family="Georgia, serif" font-size="18" fill="rgba(255,255,255,0.55)" font-style="italic">East Africa's most valuable tourism product</text>
+<text x="40" y="342" font-family="Georgia, serif" font-size="18" fill="rgba(255,255,255,0.55)" font-style="italic">is becoming structurally unbookable.</text>
+<rect x="6" y="530" width="1194" height="100" fill="#0f0e0c"/>
+<rect x="6" y="530" width="1194" height="2" fill="#C0392B"/>
+<rect x="40" y="548" width="2" height="60" fill="#C0392B"/>
+<text x="52" y="568" font-family="Georgia, serif" font-size="32" font-weight="900" fill="white">90%</text>
+<text x="52" y="588" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">Migration footprint lost</text>
+<text x="52" y="603" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">since 2020</text>
+<rect x="290" y="548" width="1" height="60" fill="rgba(255,255,255,0.08)"/>
+<rect x="310" y="548" width="2" height="60" fill="#C9A84C"/>
+<text x="322" y="568" font-family="Georgia, serif" font-size="32" font-weight="900" fill="white">140K to 15K</text>
+<text x="322" y="588" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">Wildebeest collapse,</text>
+<text x="322" y="603" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">Loita Plains corridor</text>
+<rect x="620" y="548" width="1" height="60" fill="rgba(255,255,255,0.08)"/>
+<rect x="640" y="548" width="2" height="60" fill="#C0392B"/>
+<text x="652" y="568" font-family="Georgia, serif" font-size="32" font-weight="900" fill="white">45%</text>
+<text x="652" y="588" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">ICPAC flood probability</text>
+<text x="652" y="603" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">March to May 2026</text>
+<rect x="870" y="548" width="1" height="60" fill="rgba(255,255,255,0.08)"/>
+<rect x="890" y="548" width="2" height="60" fill="#27AE60"/>
+<text x="902" y="568" font-family="Georgia, serif" font-size="32" font-weight="900" fill="white">5.8°C</text>
+<text x="902" y="588" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">Temperature rise,</text>
+<text x="902" y="603" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.45)">Mara-Serengeti, 6 decades</text>
+<text x="1160" y="615" font-family="Arial, sans-serif" font-size="12" fill="rgba(255,255,255,0.2)" text-anchor="end" letter-spacing="1">thecorridorafrica.com</text>
+</g>
+</svg>
