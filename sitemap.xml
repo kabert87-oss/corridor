@@ -1,99 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated automatically on 2026-03-09 -->
-  <!-- Total pages: 14 -->
-
-  <!-- ── HOMEPAGE ─────────────────────────────── -->
   <url>
     <loc>https://thecorridorafrica.com/</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- ── LENS PAGES ───────────────────────────── -->
+  <url>
+    <loc>https://thecorridorafrica.com/issue005.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/issue004.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/issue003.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/issue002.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/policy.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/climate.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://thecorridorafrica.com/conflict.html</loc>
     <lastmod>2026-03-09</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://thecorridorafrica.com/economics.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://thecorridorafrica.com/connectivity.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://thecorridorafrica.com/policy-governance.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://thecorridorafrica.com/climate.html</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
+
   <url>
     <loc>https://thecorridorafrica.com/diplomacy.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- ── ARTICLE PAGES ────────────────────────── -->
-  <url>
-    <loc>https://thecorridorafrica.com/issue002.html</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://thecorridorafrica.com/policy.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- ── ABOUT & LEGAL ────────────────────────── -->
   <url>
     <loc>https://thecorridorafrica.com/about.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/methodology.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/corrections.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <url>
+    <loc>https://thecorridorafrica.com/search.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://thecorridorafrica.com/terms.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.4</priority>
   </url>
+
   <url>
     <loc>https://thecorridorafrica.com/privacy.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.4</priority>
   </url>
+
   <url>
     <loc>https://thecorridorafrica.com/cookies.html</loc>
-    <lastmod>2026-03-09</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://thecorridorafrica.com/accessibility.html</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.4</priority>
   </url>
 
 </urlset>
