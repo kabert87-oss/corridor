@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/gokenya/thecorridorafrica.com/
-    - /bin/cp -R src $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
