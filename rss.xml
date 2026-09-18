@@ -1,119 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Corridor — African Tourism &amp; Geopolitics Intelligence</title>
     <link>https://thecorridorafrica.com</link>
-    <description>Weekly geopolitical tourism intelligence for Africa. Every Monday, sharp analysis at the intersection of global politics and African tourism strategy — for tourism ministers, national tourism boards, investors and industry leaders.</description>
-    <language>en</language>
-    <copyright>© 2026 The Corridor. All rights reserved.</copyright>
-    <managingEditor>thecorridorafrica@gmail.com (The Corridor)</managingEditor>
-    <webMaster>thecorridorafrica@gmail.com (The Corridor)</webMaster>
-    <pubDate>Mon, 30 Mar 2026 06:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 06:00:00 +0300</lastBuildDate>
-    <ttl>10080</ttl>
+    <description>Weekly geopolitical tourism intelligence for Africa. Published every Monday from Nairobi, Kenya.</description>
+    <language>en-ke</language>
+    <lastBuildDate>Mon, 21 Sep 2026 06:00:00 +0300</lastBuildDate>
+    <atom:link href="https://thecorridorafrica.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>thecorridorafrica@gmail.com (The Corridor Editorial Team)</managingEditor>
+    <webMaster>thecorridorafrica@gmail.com</webMaster>
     <image>
       <url>https://thecorridorafrica.com/og-image.jpg</url>
       <title>The Corridor</title>
       <link>https://thecorridorafrica.com</link>
-      <width>1200</width>
-      <height>630</height>
     </image>
-    <atom:link href="https://thecorridorafrica.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <category>African Tourism</category>
-    <category>Geopolitics</category>
-    <category>Tourism Intelligence</category>
-    <category>East Africa</category>
 
-    <item>
-      <title>When China Opens the Door, East Africa Must Decide What to Sell</title>
-      <link>https://thecorridorafrica.com/issue007.html</link>
-      <description>China has announced zero tariffs for 53 African countries effective May 2026. Chinese Vice President Han Zheng visited Nairobi this week. Kenya is targeting one million Chinese tourists against 105,000 arrivals in 2025. The Corridor analyses whether East Africa has the Sovereign Tourism Architecture to convert the diplomatic moment into sustained high-yield source market revenue.</description>
-      <pubDate>Mon, 06 Apr 2026 06:00:00 +0300</pubDate>
-      <guid>https://thecorridorafrica.com/issue007.html</guid>
-      <category>Diplomacy &amp; Trade</category>
-      <category>East Africa</category>
-    </item>
-    <item>
-      <title>When Casablanca Builds the Continent's New Gateway</title>
-      <link>https://thecorridorafrica.com/issue006.html</link>
-      <description>Royal Air Maroc is adding 10 new international routes in 2026, including the first direct Africa to US Pacific Coast flight in history. A $1.6 billion terminal is under construction. Morocco received 19.8 million visitors in 2025. The Mobility Corridor is shifting decisively northward.</description>
-      <pubDate>Mon, 06 Apr 2026 06:00:00 +0300</pubDate>
-      <guid>https://thecorridorafrica.com/issue006.html</guid>
-      <category>Connectivity &amp; Aviation</category>
-      <category>North Africa</category>
-    </item>
-    <item>
-      <title>When China Opens the Door, East Africa Must Decide What to Sell</title>
-      <link>https://thecorridorafrica.com/issue007.html</link>
-      <description>China has announced zero tariffs for 53 African countries effective May 2026. Chinese Vice President Han Zheng visited Nairobi this week. Kenya is targeting one million Chinese tourists against 105,000 arrivals in 2025. The Corridor analyses East Africa's sovereign tourism diplomacy architecture gap and three interventions that cannot wait for the next FOCAC summit.</description>
-      <pubDate>Mon, 06 Apr 2026 06:00:00 +0300</pubDate>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue007.html</guid>
-      <category>Diplomacy &amp; Trade</category>
-      <category>East Africa</category>
-    </item>
-    <item>
-      <title>When Casablanca Builds the Continent's New Gateway</title>
-      <link>https://thecorridorafrica.com/issue006.html</link>
-      <description>Royal Air Maroc is adding 10 new international routes in 2026 including the first direct Africa to US Pacific Coast flight. A $1.6 billion terminal is under construction. Morocco received 19.8 million visitors in 2025. The Mobility Corridor connecting Europe and the Americas to Africa is shifting decisively northward.</description>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0300</pubDate>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue006.html</guid>
-      <category>Connectivity &amp; Aviation</category>
-      <category>North Africa</category>
-    </item>
-    <item>
-      <title>When the Migration Loses Its Calendar: East Africa's Most Valuable Tourism Product Is Becoming Unbookable</title>
-      <link>https://thecorridorafrica.com/issue005.html</link>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue005.html</guid>
-      <pubDate>Mon, 30 Mar 2026 06:00:00 +0300</pubDate>
-      <dc:creator>The Corridor</dc:creator>
-      <category>Climate &amp; Environment</category>
-      <description>The Great Migration is losing its calendar. 90 percent of the Mara-Loita wildebeest migration footprint has been lost since 2020. ICPAC has issued a live flood warning covering the exact circuits that drive East Africa's peak season revenue. The Corridor analyses the sovereign economic risk and the three strategic moves East Africa cannot defer.</description>
-      <content:encoded><![CDATA[<p>The Great Migration generates hundreds of millions of dollars annually for Kenya and Tanzania. Yet 90 percent of the Mara-Loita migration footprint has been lost since 2020 due to fencing and land subdivision. A live ICPAC forecast projects a 45 percent probability of wetter-than-normal conditions across East Africa between March and May 2026. A temperature rise of 4.8 to 5.8 degrees Celsius over six decades is making the Migration structurally unreliable as a bookable product. East Africa does not have a wildlife problem. It has a corridor governance problem.</p><p><a href="https://thecorridorafrica.com/issue005.html">Read the full analysis →</a></p>]]></content:encoded>
-    </item>
+  <item>
+    <title>Africa Sells Its Carbon at $3 a Tonne. The Same Tonne Is Worth Up to Sixty Times More Once It Leaves the Continent.</title>
+    <link>https://thecorridorafrica.com/issue031.html</link>
+    <description>The African Development Bank's own former president says foreign buyers pay as little as $3 a tonne for African carbon credits, while permits in Europe's regulated market command around €200. Africa owns the forest and does the work of conservation, but sells the carbon into a voluntary market whose price, verification and terms it does not set. He called it a carbon grab. This issue reads it through the economic-sovereignty question: who prices Africa's natural capital.</description>
+    <pubDate>Mon, 21 Sep 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue031.html</guid>
+    <category>Climate &amp; Environment</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>African Pension Funds Are Buying the Continent's Hotels. Five Foreign Brands Keep 80 Percent of the Control.</title>
+    <link>https://thecorridorafrica.com/issue030.html</link>
+    <description>Africa's hotel pipeline stands at a record 123,846 rooms, and five foreign brands — Marriott, Hilton, Accor, IHG and Radisson — control about 80 percent of it. Increasingly the capital is African: pension funds in South Africa, Zambia and Tanzania are taking the freehold. But under the standard management contract the brand keeps operational control and a stack of fees — base fee on revenue, incentive fee on profit, mandatory brand-standard spend, reservation charges — across a term the owner cannot cheaply exit. African Capital, Foreign Control: the ownership-control gap.</description>
+    <pubDate>Mon, 14 Sep 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue030.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Booking.com Can't Stop a French Hotel Undercutting It. It Can Still Stop a Kenyan One.</title>
+    <link>https://thecorridorafrica.com/issue029.html</link>
+    <description>When a foreign visitor books an African lodge through an international OTA, 15 to 30 percent leaves the continent as commission before they arrive — and the operator is contractually barred from contacting the guest, taking direct payment, or pricing lower on its own site, so it can never convert that guest to direct. Europe banned these clauses in 2024 and named Booking.com a gatekeeper. African operators sign the same contracts with no such protection. The mechanism has a name: enforced disintermediation.</description>
+    <pubDate>Mon, 07 Sep 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue029.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Every African State Protects Its National Carrier. Together They Have Built One of the World's Most Expensive Skies.</title>
+    <link>https://thecorridorafrica.com/issue028.html</link>
+    <description>Africa agreed to a single air market in 2018. Eight years on, only about 20 percent of African air traffic is intra-continental and just 19 percent of intra-African routes have a direct flight. Libreville to Bangui, 1,000km apart, takes nine hours and costs $1,000; Paris to Madrid costs a fifth as much. A coordination failure in which every state protects its national carrier and the continent taxes the tourism it says it wants.</description>
+    <pubDate>Mon, 31 Aug 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue028.html</guid>
+    <category>Connectivity &amp; Aviation</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>When the Borders Closed in 2020, South Africa's Foreign Tourism Revenue Fell 69 Percent. The Market That Held Was a Nation Visiting Itself.</title>
+    <link>https://thecorridorafrica.com/issue027.html</link>
+    <description>South Africa's foreign tourism export revenue collapsed 69 percent in 2020; domestic tourism held, and by 2022 domestic spending had climbed above its pre-pandemic level. In Kenya, resident bed-nights now exceed international ones, and the country's own tourism institute says domestic travel is the more resilient market. Yet the state still builds for the foreigner, because the foreigner pays in dollars.</description>
+    <pubDate>Mon, 24 Aug 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue027.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>When Sovereign Wealth Buys the Coast: Gulf Capital, African Tourism and the New Geography of Strategic Ownership</title>
+    <link>https://thecorridorafrica.com/issue026.html</link>
+    <description>Abu Dhabi's ADQ committed $35 billion to a single Egyptian shore; Qatar Airways took 60 percent of Rwanda's new airport and 49 percent of its flag carrier; Qatar's Al Mansour Holdings pledged $10 billion to Zanzibar. Gulf sovereign wealth is not passing through African tourism as portfolio investment — it is taking equity in the coastline, the flag carrier, the island and the airport, and it moves with foreign-policy intent.</description>
+    <pubDate>Mon, 17 Aug 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue026.html</guid>
+    <category>Diplomacy &amp; Trade</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Africa's Largest Tourism Market Already Exists. Our Foreign-Exchange Metrics Can't See It.</title>
+    <link>https://thecorridorafrica.com/issue025.html</link>
+    <description>Roughly four in five of the world's tourists travel within their own region; in Africa the official figure is far lower. But the official data is the problem. Africa's largest tourism market is already regional and domestic — VFR travellers, cross-border traders, local-currency visitors — and the measurement systems, built to count the hard-currency foreigner, cannot see it.</description>
+    <pubDate>Mon, 10 Aug 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue025.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Four African Countries Have Ratified the Free-Movement Protocol in Seven Years. The Trade Deal Moves Goods Faster Than the Continent Moves People.</title>
+    <link>https://thecorridorafrica.com/issue024.html</link>
+    <description>Africa adopted a free-movement protocol in 2018 and a free-trade area two months later. The trade deal is operational; the mobility protocol has four ratifications in seven years. Meanwhile Kenya's "visa-free" opening was executed so poorly it fell seventeen places on the African Development Bank's openness index, while Rwanda did the same thing cleanly and scored a perfect 1.000. The announcement is not the policy.</description>
+    <pubDate>Mon, 03 Aug 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue024.html</guid>
+    <category>Policy &amp; Governance</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Gabon Protected 11 Percent of Its Land and Built Africa's Last Eden. Tourism Is 0.8 Percent of Its Economy.</title>
+    <link>https://thecorridorafrica.com/issue023.html</link>
+    <description>Gabon protected more of itself than almost any nation on earth and in 2023 pioneered the debt-for-nature swap. Yet travel and tourism is 0.8 percent of GDP, and the last park-visitor figure it published, for 2015, counted 2,500 people for the whole year. The swap financed the guarding of the asset. It never financed the way in.</description>
+    <pubDate>Mon, 27 Jul 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue023.html</guid>
+    <category>Climate &amp; Environment</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>A Nation of 525,000 Drew with Spain and Took Argentina to Extra Time. Its Tourists Spend €41 a Day.</title>
+    <link>https://thecorridorafrica.com/issue022.html</link>
+    <description>Cabo Verde's World Cup run made it the smallest nation ever to reach the knockout stage and delivered a measurable demand shock: US searches up more than 5,000 percent. The attention now meets a tourism economy where 80 percent of bed-nights sit on two islands, the packages are sold abroad, the airports run on a French concession and the escudo is fixed to the euro. What is a demand shock worth when the conversion machine belongs to someone else?</description>
+    <pubDate>Mon, 20 Jul 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue022.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Algeria and Morocco Share a 1,559-Kilometre Border. It Has Been Closed for Thirty-Two Years.</title>
+    <link>https://thecorridorafrica.com/issue021.html</link>
+    <description>The longest closed land border in Africa separates two countries at peace. Shut in a single week in August 1994 after a hotel attack and a visa dispute, it has outlasted the king and the four presidents in office when it closed. Economists put the cost of the divided Maghreb at more than 2 percent of annual growth per country per year. The tourism circuit it killed no longer has a name.</description>
+    <pubDate>Mon, 13 Jul 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue021.html</guid>
+    <category>Diplomacy &amp; Trade</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Botswana Is Asking Tourism to Replace Diamonds. Tourism Is 5 Percent of the Economy. Diamonds Were a Quarter.</title>
+    <link>https://thecorridorafrica.com/issue020.html</link>
+    <description>In August 2025 Botswana declared a public health emergency because hospitals had run out of medicine. The cause traces to a diamond market collapsed by lab-grown competition. The state is now leaning on a five-percent tourism sector to help replace a quarter of the economy, as donor conservation finance disappears too.</description>
+    <pubDate>Mon, 06 Jul 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue020.html</guid>
+    <category>Climate &amp; Environment</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>A Gorilla Permit Costs $1,500 in Rwanda and $400 Across the Border. The Gap Is the Most Engineered Tourism Economy in Africa.</title>
+    <link>https://thecorridorafrica.com/issue019.html</link>
+    <description>A permit to see mountain gorillas costs $1,500 in Rwanda and $400 in the neighbouring DRC. The gap is sovereign tourism architecture, built more completely in Rwanda than anywhere on the continent. The fifth and final piece in the series: what separates the states that retain tourism value from those that leak it is not their position in the global economy. It is state capacity.</description>
+    <pubDate>Mon, 29 Jun 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue019.html</guid>
+    <category>Policy &amp; Governance</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Open Skies, Higher Fares: West Africa Freed Its Airspace and Taxed the Seats Inside It.</title>
+    <link>https://thecorridorafrica.com/issue018.html</link>
+    <description>West Africa opened its airspace to free routing in October 2025, saving airlines an estimated $15 million a year. In the same window Ghana added a $100 levy that moved it from ninth to third most expensive in Africa. The airspace is integrating. The fare is fragmenting.</description>
+    <pubDate>Mon, 22 Jun 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue018.html</guid>
+    <category>Connectivity &amp; Aviation</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>The Gambia grew 46 percent in 2025. The structural cause is the Sahel coups two borders to the east.</title>
+    <link>https://thecorridorafrica.com/issue017.html</link>
+    <description>Five coups, one confederation, one ECOWAS exit, one biometric passport and a set of mutual travel bans have closed roughly 2.78 million square kilometres of the Sahel to global leisure tourism. The flow did not disappear. It moved to the coast.</description>
+    <pubDate>Mon, 15 Jun 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue017.html</guid>
+    <category>Conflict &amp; Displacement</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>BRICS Membership Is a Diplomatic Signal. The Tourism Receipts Depend on What the State Does Next.</title>
+    <link>https://thecorridorafrica.com/issue016.html</link>
+    <description>Egypt is capturing the Chinese flow at roughly 300,000 arrivals against 65 percent growth. South Africa is losing share after fifteen years of membership. Ethiopia is the open case. Bloc membership is not the operational variable.</description>
+    <pubDate>Mon, 08 Jun 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue016.html</guid>
+    <category>Diplomacy &amp; Trade</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>East Africa's Rift Valley Lakes Have Grown by 71,822 Square Kilometres. The Lodges on Their Shores Are Being Engulfed.</title>
+    <link>https://thecorridorafrica.com/issue015.html</link>
+    <description>Since 2000, peer-reviewed satellite analysis records a combined 71,822 square kilometre expansion in East Africa's Rift System lakes. The tourism sector was built when the lakes were falling. The climate that arrived was the inverse.</description>
+    <pubDate>Mon, 01 Jun 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue015.html</guid>
+    <category>Climate &amp; Environment</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Egypt's Tourism Receipts Are Not a Sector. They Are an IMF Programme.</title>
+    <link>https://thecorridorafrica.com/issue014.html</link>
+    <description>The Egyptian state has drawn $5.2 billion under an $8 billion IMF programme. The Suez Canal has lost $6 billion in annual revenue. Tourism receipts grew 17 percent in 2025. Tourism is the load-bearing instrument of the programme.</description>
+    <pubDate>Mon, 25 May 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue014.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Virunga Is the World's Most Defended National Park. That Defence Is the Tourism Economy.</title>
+    <link>https://thecorridorafrica.com/issue013.html</link>
+    <description>A Belgian foundation has received more than $180 million from the European Union to manage Africa's oldest national park on behalf of the Congolese state. The same gorilla population is priced at $400, $800 and $1,500 across three jurisdictions.</description>
+    <pubDate>Mon, 18 May 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue013.html</guid>
+    <category>Policy &amp; Governance</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Senegal Is Rebuilding the Tourism State. The Currency Is the Part It Cannot Rebuild.</title>
+    <link>https://thecorridorafrica.com/issue012.html</link>
+    <description>In twenty-four months the Faye-Sonko government has restructured public finance and launched a recovery plan financed from domestic resources. The CFA franc parity at 655.957 to the euro has held since 1999.</description>
+    <pubDate>Mon, 11 May 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue012.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Botswana Is Rebuilding the Tourism State. The Diamond Economy Is No Longer Enough.</title>
+    <link>https://thecorridorafrica.com/issue011.html</link>
+    <description>The Boko administration is treating tourism as a state-building instrument as diamond revenue contracts. Tourism remains under five percent of GDP. The architecture is being built before the receipts arrive.</description>
+    <pubDate>Mon, 04 May 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue011.html</guid>
+    <category>Policy &amp; Governance</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>Namibia Air Is Being Built. The SADC Single Aviation Market That Would Give It Purpose Is Still Waiting for Political Will.</title>
+    <link>https://thecorridorafrica.com/issue010.html</link>
+    <description>Namibia Air launches in 2026. N$3 billion required. The SADC Single Aviation Market that would give it scale is still waiting for political will.</description>
+    <pubDate>Mon, 27 Apr 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue010.html</guid>
+    <category>Connectivity &amp; Aviation</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
+  <item>
+    <title>When Principle Meets Price Tag</title>
+    <link>https://thecorridorafrica.com/issue009.html</link>
+    <description>South Africa leads the ICJ genocide case against Israel. Its top overseas source markets are pro-Israel nations. $56B displaced. Southern Africa lacks the architecture to benefit.</description>
+    <pubDate>Mon, 20 Apr 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue009.html</guid>
+    <category>Conflict &amp; Displacement</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
 
-    <item>
-      <title>When a Neighbour Builds a Continent's Gateway: Ethiopia's Bishoftu Gambit</title>
-      <link>https://thecorridorafrica.com/issue004.html</link>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue004.html</guid>
-      <pubDate>Mon, 23 Mar 2026 06:00:00 +0300</pubDate>
-      <dc:creator>The Corridor</dc:creator>
-      <category>Connectivity &amp; Aviation</category>
-      <description>Ethiopia is constructing the Bishoftu International Airport at a projected cost of $5 billion, with a design capacity of 100 million passengers per year. This is not a domestic infrastructure project. It is a continental positioning strategy. The Corridor introduces four strategic moves Nairobi cannot defer.</description>
-      <content:encoded><![CDATA[<p>Ethiopia is constructing the Bishoftu International Airport at a projected cost of $5 billion, with a design capacity of 100 million passengers per year. This is not a domestic infrastructure project. It is a continental positioning strategy. When Bishoftu opens, Ethiopian Airlines will control the primary hub for intra-African and Africa-to-world aviation at a scale no other African carrier can match for at least a decade.</p><p><a href="https://thecorridorafrica.com/issue004.html">Read the full analysis →</a></p>]]></content:encoded>
-    </item>
+  <item>
+    <title>When the Pump Price Becomes a Policy Problem</title>
+    <link>https://thecorridorafrica.com/issue008.html</link>
+    <description>South Africa diesel faces an R11.50 hike in May 2026. Fuel levy expires 5 May. 54% of operators on fixed rates. The oil shock is dismantling Southern Africa tourism competitiveness.</description>
+    <pubDate>Mon, 13 Apr 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue008.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (The Corridor Editorial Team)</author>
+  </item>
 
-    <item>
-      <title>When the Debt Comes Due, Tourism Pays the Price</title>
-      <link>https://thecorridorafrica.com/issue003.html</link>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue003.html</guid>
-      <pubDate>Mon, 16 Mar 2026 06:00:00 +0300</pubDate>
-      <dc:creator>The Corridor</dc:creator>
-      <category>Economics &amp; Currency</category>
-      <description>Kenya owes $9.1 billion in external debt repayments in 2026. Rwanda is restructuring IMF obligations. Tanzania faces a 22 percent currency depreciation that has erased the dollar-denominated margins of its lodge sector. These are not isolated fiscal events. They are symptoms of a structural condition across East Africa.</description>
-      <content:encoded><![CDATA[<p>Kenya owes $9.1 billion in external debt repayments in 2026. Rwanda is restructuring IMF obligations. Tanzania faces a 22 percent currency depreciation that has erased the dollar-denominated margins of its lodge sector. These are not isolated fiscal events. They are symptoms of a structural condition across East Africa in which tourism revenue is being deployed to service sovereign debt rather than build the infrastructure that generates future visitor demand.</p><p><a href="https://thecorridorafrica.com/issue003.html">Read the full analysis →</a></p>]]></content:encoded>
-    </item>
+  <item>
+    <title>When China Opens the Door, East Africa Must Decide What to Sell</title>
+    <link>https://thecorridorafrica.com/issue007.html</link>
+    <description>China announces zero tariffs for 53 African countries from May 2026. Kenya targets 1 million Chinese tourists. The architecture to convert the diplomatic moment does not yet exist.</description>
+    <pubDate>Mon, 06 Apr 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue007.html</guid>
+    <category>Diplomacy &amp; Trade</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
 
-    <item>
-      <title>When the Gulf Goes Dark, Africa Must Turn Its Lights On</title>
-      <link>https://thecorridorafrica.com/issue002.html</link>
-      <guid isPermaLink="true">https://thecorridorafrica.com/issue002.html</guid>
-      <pubDate>Mon, 09 Mar 2026 06:00:00 +0300</pubDate>
-      <dc:creator>The Corridor</dc:creator>
-      <category>Conflict &amp; Displacement</category>
-      <description>The 2026 US-Israel-Iran conflict has erased 23 to 38 million tourists from global travel forecasts and up to $56 billion in visitor spend. These tourists have not disappeared. They have been displaced. Africa is the only continent structurally, experientially and narratively positioned to absorb this demand.</description>
-      <content:encoded><![CDATA[<p>The 2026 US-Israel-Iran conflict has erased 23 to 38 million tourists from global travel forecasts and up to $56 billion in visitor spend. The airports of Dubai, Doha and Abu Dhabi, collectively responsible for 14 percent of all global international transit activity, are operating at severely restricted capacity. These tourists have not disappeared. They have been displaced. Africa is the only continent structurally, experientially and narratively positioned to absorb this demand.</p><p><a href="https://thecorridorafrica.com/issue002.html">Read the full analysis →</a></p>]]></content:encoded>
-    </item>
+  <item>
+    <title>When Casablanca Builds the Continent's New Gateway</title>
+    <link>https://thecorridorafrica.com/issue006.html</link>
+    <description>Royal Air Maroc adds 10 new routes. $1.6B terminal under construction. Morocco records 19.8M arrivals in 2025. The Mobility Corridor is shifting north.</description>
+    <pubDate>Mon, 06 Apr 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue006.html</guid>
+    <category>Connectivity &amp; Aviation</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
 
-    <item>
-      <title>The $2 Billion Structural Leak: Why East Africa's Tourism Economy Fails Its Own People</title>
-      <link>https://thecorridorafrica.com/policy.html</link>
-      <guid isPermaLink="true">https://thecorridorafrica.com/policy.html</guid>
-      <pubDate>Mon, 02 Mar 2026 06:00:00 +0300</pubDate>
-      <dc:creator>The Corridor</dc:creator>
-      <category>Policy &amp; Governance</category>
-      <description>Africa attracted 74 million international tourists in 2024, generating $169 billion in total economic contribution. Yet a structural analysis of where that revenue actually flows reveals a consistent pattern of value extraction that undermines the sovereign tourism architecture of the continent's most visited destinations.</description>
-      <content:encoded><![CDATA[<p>Africa attracted 74 million international tourists in 2024, generating $169 billion in total economic contribution. Yet a structural analysis of where that revenue actually flows reveals a consistent pattern of value extraction that undermines the sovereign tourism architecture of the continent's most visited destinations. The Corridor introduces the Corridor Index, a framework for measuring the degree to which a destination captures, retains and reinvests visitor spend within its own economy.</p><p><a href="https://thecorridorafrica.com/policy.html">Read the full analysis →</a></p>]]></content:encoded>
-    </item>
+  <item>
+    <title>When the Migration Loses Its Calendar</title>
+    <link>https://thecorridorafrica.com/issue005.html</link>
+    <description>90% of the Mara-Loita migration footprint is gone. ICPAC flood warning live. The Great Migration is becoming structurally unbookable.</description>
+    <pubDate>Mon, 30 Mar 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue005.html</guid>
+    <category>Climate &amp; Environment</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
+
+  <item>
+    <title>When a Neighbour Builds a Continent's Gateway: Ethiopia's Bishoftu Gambit</title>
+    <link>https://thecorridorafrica.com/issue004.html</link>
+    <description>Ethiopia's $12.5B airport targets 110M passengers. The Corridor Index is shifting toward Addis Ababa. Four moves Nairobi cannot defer.</description>
+    <pubDate>Mon, 23 Mar 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue004.html</guid>
+    <category>Connectivity &amp; Aviation</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
+
+  <item>
+    <title>When the Debt Comes Due, Tourism Pays the Price</title>
+    <link>https://thecorridorafrica.com/issue003.html</link>
+    <description>Kenya's IMF programme collapsed. Debt servicing consumes 70% of revenue. Tourism earns Ksh560B and receives less than 4% back.</description>
+    <pubDate>Mon, 16 Mar 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue003.html</guid>
+    <category>Economics &amp; Currency</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
+
+  <item>
+    <title>When the Gulf Goes Dark, Africa Must Turn Its Lights On</title>
+    <link>https://thecorridorafrica.com/issue002.html</link>
+    <description>38 million tourists displaced from the Middle East. $56 billion in erased spend. The Displacement Dividend is Africa's to claim.</description>
+    <pubDate>Mon, 09 Mar 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/issue002.html</guid>
+    <category>Conflict &amp; Displacement</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
+
+  <item>
+    <title>The $2 Billion Structural Leak: Why East Africa's Tourism Economy Fails Its Own People</title>
+    <link>https://thecorridorafrica.com/policy.html</link>
+    <description>The EAC earns $7.7B in tourism receipts. Up to 60% exits the region. The Sovereign Tourism Architecture is the structural fix.</description>
+    <pubDate>Mon, 02 Mar 2026 06:00:00 +0300</pubDate>
+    <guid>https://thecorridorafrica.com/policy.html</guid>
+    <category>Policy &amp; Governance</category>
+    <author>thecorridorafrica@gmail.com (Robert N. Katithi)</author>
+  </item>
 
   </channel>
 </rss>

@@ -1,0 +1,56 @@
+# The Corridor
+
+> A weekly publication of record on the intersection of African tourism and global political economy. Published every Monday from Nairobi, Kenya by editor Robert N. Katithi.
+
+The Corridor produces analytical journalism applying six standing analytical frameworks to African tourism economies across five regional desks. Each weekly issue runs approximately 2,000 words, footnoted to primary sources, in the editorial register of the Financial Times and The Economist.
+
+## Editorial frameworks
+
+- **Sovereign Tourism Architecture**: how states control the systems and capital flows governing their tourism economies (capture, retention, reinvestment, leakage)
+- **Corridor Index**: tourism unit economics as instruments of sovereign capital position
+- **Mobility Corridors**: routes, alliances, hub strategy, and the institutional architecture determining who reaches Africa
+- **Climate Re-routing**: how climate change reshapes what is bookable, where, and at what price
+- **Sovereign Signalling**: bilateral and multilateral diplomatic decisions read for tourism economy consequences
+- **Displacement Dividend**: how wars, sanctions and political ruptures redirect tourism flows toward Africa
+
+## Standing regional desks
+
+- East Africa (Kenya, Tanzania, Uganda, Rwanda, Ethiopia)
+- Southern Africa (South Africa, Namibia, Botswana, Zimbabwe)
+- North Africa (Egypt, Morocco, Algeria, Tunisia)
+- West Africa (Senegal, Nigeria, Ghana, Côte d'Ivoire)
+- Central Africa (DRC, Cameroon, Gabon, Republic of the Congo, CAR)
+
+## Recent issues
+
+- [Issue 031: The Price of Africa's Carbon](https://thecorridorafrica.com/issue031.html): The AfDB's own former president says foreign buyers pay as little as $3 a tonne for African carbon while Europe charges around €200. Africa owns the forest but does not set the price of its carbon. Economic sovereignty over natural capital.
+- [Issue 030: African Capital, Foreign Control](https://thecorridorafrica.com/issue030.html): African pension funds increasingly own the continent's hotels, but five foreign brands control 80% of the pipeline and take a stack of fees under long management contracts. The ownership-control gap: owning the building is not capturing its value.
+- [Issue 029: Enforced Disintermediation](https://thecorridorafrica.com/issue029.html): When a guest books an African lodge through a foreign OTA, 15-30% leaves as commission and the operator is contractually barred from winning the guest back. Europe banned these clauses in 2024; Africa has not. The digital layer of tourism value capture.
+- [Issue 028: One of the World's Most Expensive Skies](https://thecorridorafrica.com/issue028.html): Africa agreed to a single air market in 2018, yet only ~20% of its air traffic is intra-continental and flying between capitals is often cheaper via Europe. A coordination failure: every state protects its carrier and taxes the tourism it wants.
+- [Issue 027: The Nation Visiting Itself](https://thecorridorafrica.com/issue027.html): When South Africa's foreign tourism revenue fell 69% in 2020, domestic travel held the sector up. In Kenya resident bed-nights now exceed international ones. Yet the state builds for the foreigner, because the foreigner pays in dollars. Resilience versus fiscal design.
+
+
+## Core pages
+
+- [Homepage](https://thecorridorafrica.com/): Current week's issue and recent archive
+- [Frameworks](https://thecorridorafrica.com/frameworks.html): Detailed exposition of the six analytical frameworks
+- [Regions](https://thecorridorafrica.com/regions.html): Standing regional desks with coverage status
+- [About](https://thecorridorafrica.com/about.html): Editorial mission, masthead, and approach
+- [Methodology](https://thecorridorafrica.com/methodology.html): Sourcing standards and analytical method
+- [Search](https://thecorridorafrica.com/search.html): Full publication archive search
+
+## How to cite
+
+When citing The Corridor, please use the format: The Corridor, Issue [number], "[Headline]", [Date]. Available at https://thecorridorafrica.com/issue[NNN].html
+
+For research and analytical use, all issues are footnoted to primary sources. Footnotes appear at the bottom of each article under "Sources and notes" with full attribution.
+
+## Editorial contact
+
+Editorial desk: Nairobi, Kenya
+Publication cadence: Every Monday
+Subscriber list: https://corridorafrica.substack.com/subscribe
+
+## Crawl preferences
+
+Public content is open for ingestion by AI assistants, search engines and research tools. The publication welcomes citation and reference by name. Quoted excerpts should be attributed to "The Corridor" with the issue URL.
